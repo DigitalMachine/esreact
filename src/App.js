@@ -3,7 +3,6 @@ import { BrowserRouter, Route, Switch } from 'react-router-dom';
 
 import MainTemplate from "./components/mainLayout/template/mainTemplate";
 import Home from "./components/home/home";
-
 import Login from "./components/login/login";
 
 
